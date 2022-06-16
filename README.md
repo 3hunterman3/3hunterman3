@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3hunterman3
+- 👋 Hi, I’m Yong Jun Kim
 - 👀 I’m interested in becoming a better coder
 - 🌱 I’m currently learning berkley bootcamp
 - 💞️ I’m looking to collaborate on software 
